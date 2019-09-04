@@ -3,3 +3,4 @@
 然后加备注：git commit -m “执行该步骤后的等于传到本地”
 然后上传代码：git push origin master 
 查看修改的内容：git status
++2
